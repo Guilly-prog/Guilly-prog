@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Guilly-prog
+- 👋 Hi, my name is Guilherme, or Guilly for short
 - 👀 I’m interested in tech in general
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on java projects
