@@ -1,8 +1,8 @@
 <h2>Welcome to GuiLopes's GitHub</h2>
 <div>
   <a href="https://github.com/Guilly-prog">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Guilly-prog&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilly-prog&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilly-prog&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilly-prog&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
   
   ##
